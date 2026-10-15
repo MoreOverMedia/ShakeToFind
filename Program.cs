@@ -14,7 +14,7 @@ static class Settings
     public const int ReversalsNeeded = 4;     
     public const float GrowTauMs = 55f;       
     public const float ShrinkTauMs = 90f;     
-
+}
 static class Program
 {
     [STAThread]
